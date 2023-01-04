@@ -9,3 +9,18 @@ Random Image Generator is an app that displays a random image using the Unsplash
 
 ## Usage
 If refreshing the page does not automatically generate a new image, it means the maximum limit of 50 requests within the last hour has been reached. Allow up to one hour - when the 50 requests/hour cycle refreshes - to view new images.
+
+## Responsiveness 
+
+The app is fully responsive, resizing beautifully across different mobile devices. 
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+
+## Version Control
+
+- GitLab
